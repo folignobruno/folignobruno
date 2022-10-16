@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @folignobruno
+- 👋 Hi, I’m Bruno Foligno
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning test automation with selenium, cucumber, java and front end
 - 💞️ I’m looking to collaborate on java and tests automation
